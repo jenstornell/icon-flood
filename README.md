@@ -2,6 +2,7 @@
 
 | Name                                                              | License                                   | Icons | Grid |
 | ----                                                              | ----------------------------------------- | ----- | ---- |
+| [Eva icons](https://akveo.github.io/eva-icons/#/)                 | MIT                                       | 480+  | 24px |
 | [Feather icons](https://feathericons.com/)                        | MIT                                       | 274   | 24px |
 | [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free)    | [Custom](https://fontawesome.com/license) | 1500  | 48px |
 | [Iconic](https://useiconic.com/open)                              | MIT                                       | 223   | 24px |
