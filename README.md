@@ -1,4 +1,17 @@
-# Free icon packs
+# Free icon packs 2019
+
+The icon sets are hand picked. Only really good icon packs are listed.
+
+## To be included
+
+Here are the very high requirements to be included to the list.
+
+- Nice looking icons.
+- At least 200 icons in the pack.
+- Possible to download as SVG.
+- A good demo for the icons.
+- Free license for personal and commercial use.
+- General icons, not niched like baking or space travel.
 
 | Name                                                              | License                                   | Icons | Grid |
 | ----                                                              | ----------------------------------------- | ----- | ---- |
@@ -10,3 +23,7 @@
 | [Jam icons](https://jam-icons.com/)                               | MIT                                       | 890+  | 24px |
 | [Material icons](https://material.io/tools/icons/?style=baseline) | Apache 2.0                                | ?     | 24px |
 | [Remixicon](https://remixicon.com/)                               | Apache 2.0                                | 1300+ | 24px |
+
+## Did I miss a good icon pack?
+
+Add an issue.
