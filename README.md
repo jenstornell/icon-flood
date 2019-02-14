@@ -26,6 +26,7 @@ Here are the very high requirements to be included to the list.
 | [Material icons](https://material.io/tools/icons/?style=baseline) | Apache 2.0                                | ?     | 24px |
 | [Open iconic](https://useiconic.com/open)                         | MIT                                       | 200+  | 16px 24px | [Github](https://github.com/iconic/open-iconic)
 | [Remixicon](https://remixicon.com/)                               | Apache 2.0                                | 1300+ | 24px |
+| [Themify icons](https://themify.me/themify-icons)                 | MIT                                       | 320+  | 17px | [Github](https://github.com/lykmapipo/themify-icons)
 
 ## Did I miss a good icon pack?
 
