@@ -24,6 +24,7 @@ Here are the very high requirements to be included to the list.
 | [Ionicons](https://ionicons.com/)                                 | MIT                                       | 700+  | 32px |
 | [Jam icons](https://jam-icons.com/)                               | MIT                                       | 890+  | 24px |
 | [Material icons](https://material.io/tools/icons/?style=baseline) | Apache 2.0                                | ?     | 24px |
+| [Open iconic](https://useiconic.com/open)                         | MIT                                       | 200+  | 16px 24px | [Github](https://github.com/iconic/open-iconic)
 | [Remixicon](https://remixicon.com/)                               | Apache 2.0                                | 1300+ | 24px |
 
 ## Did I miss a good icon pack?
