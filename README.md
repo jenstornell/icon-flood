@@ -13,8 +13,9 @@ Here are the very high requirements to be included to the list.
 - Free license for personal and commercial use.
 - General icons, not niched like baking or space travel.
 
-| Name                                                              | License                                   | Icons | Grid |
-| ----                                                              | ----------------------------------------- | ----- | ---- |
+| Name                                                              | License                                   | Icons | Grid | Repo
+| ----                                                              | ----------------------------------------- | ----- | ---- | ----
+| [Dripicons](http://demo.amitjakhu.com/dripicons/)                 | CC-BY-SA-4.0                              | 200+  | 32px | [Github](https://github.com/amitjakhu/dripicons)
 | [Eva icons](https://akveo.github.io/eva-icons/#/)                 | MIT                                       | 480+  | 24px |
 | [Feather icons](https://feathericons.com/)                        | MIT                                       | 274   | 24px |
 | [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free)    | [Custom](https://fontawesome.com/license) | 1500  | 48px |
