@@ -19,6 +19,7 @@ Here are the very high requirements to be included to the list.
 | [Eva icons](https://akveo.github.io/eva-icons/#/)                 | MIT                                       | 480+  | 24px |
 | [Feather icons](https://feathericons.com/)                        | MIT                                       | 274   | 24px |
 | [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free)    | [Custom](https://fontawesome.com/license) | 1500  | 48px |
+| [Glyph](https://glyph.smarticons.co/)                             | CC BY-SA 4.0                              | 800+  | 16px | [Github](https://github.com/frexy/glyph-iconset)
 | [Iconic](https://useiconic.com/open)                              | MIT                                       | 223   | 24px |
 | [Ionicons](https://ionicons.com/)                                 | MIT                                       | 700+  | 32px |
 | [Jam icons](https://jam-icons.com/)                               | MIT                                       | 890+  | 24px |
