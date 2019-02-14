@@ -21,11 +21,10 @@ Hand picked icon packs/sets.
 | [Font Awesome free](https://fontawesome.com/icons?d=gallery&m=free) | [Custom](https://fontawesome.com/license) | 1500  | 48px |
 | [Glyph](https://glyph.smarticons.co/)                               | CC BY-SA 4.0                              | 800+  | 16px | [Github](https://github.com/frexy/glyph-iconset)
 | [Icomoon free](https://icomoon.io/#preview-free)                    | CC BY 4.0                                 | 490+  | 32px | [Github](https://github.com/Keyamoon/IcoMoon-Free)
-| [Iconic](https://useiconic.com/open)                                | MIT                                       | 223   | 24px |
+| [Iconic](https://useiconic.com/open)                                | MIT                                       | 223   | 24px | [Github](https://github.com/iconic/open-iconic)
 | [Ionicons](https://ionicons.com/)                                   | MIT                                       | 700+  | 32px |
 | [Jam icons](https://jam-icons.com/)                                 | MIT                                       | 890+  | 24px |
 | [Material icons](https://material.io/tools/icons/?style=baseline)   | Apache 2.0                                | ?     | 24px |
-| [Open iconic](https://useiconic.com/open)                           | MIT                                       | 200+  | 16px 24px | [Github](https://github.com/iconic/open-iconic)
 | [Remixicon](https://remixicon.com/)                                 | Apache 2.0                                | 1300+ | 24px | [Github](https://github.com/Remix-Design/remixicon)
 | [Themify icons](https://themify.me/themify-icons)                   | MIT                                       | 320+  | 17px | [Github](https://github.com/lykmapipo/themify-icons)
 | [Zondicons](http://www.zondicons.com/icons.html)                    | Free                                      | 250+  | 20px | [Github](https://github.com/dukestreetstudio/zondicons)
