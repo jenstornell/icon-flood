@@ -10,7 +10,7 @@ Hand picked icon packs/sets.
 - Good preview page.
 - Free for personal and commercial use.
 - General icons, not a specific category.
-- Monocrome (black and white).
+- Black and white.
 
 | Name                                                                | License                                   | Icons | Grid | Repo
 | ----                                                                | ----------------------------------------- | ----- | ---- | ----
@@ -31,4 +31,4 @@ Hand picked icon packs/sets.
 
 ## Did I miss a good icon pack?
 
-Add an issue.
+[Add an issue](https://github.com/jenstornell/free-icon-packs/issues)
