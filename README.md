@@ -1,20 +1,20 @@
 # Free icon packs 2019
 
-The icon sets are hand picked. Only really good icon packs are listed.
+Hand picked icon packs/sets.
 
-## To be included
+## Requirements
 
-Here are the very high requirements to be included to the list.
-
-- Nice looking icons.
-- At least 200 icons in the pack.
-- Possible to download as SVG.
-- A good demo for the icons.
-- Free license for personal and commercial use.
-- General icons, not niched like baking or space travel.
+- Looks great.
+- At least 200 icons.
+- SVG support.
+- Good preview page.
+- Free for personal and commercial use.
+- General icons, not a specific category.
+- Monocrome (black and white).
 
 | Name                                                                | License                                   | Icons | Grid | Repo
 | ----                                                                | ----------------------------------------- | ----- | ---- | ----
+| [Boxicons](https://boxicons.com/)                                   | CC BY 4.0                                 | 650+  | 24px | [Github](https://github.com/atisawd/boxicons)
 | [Dripicons](http://demo.amitjakhu.com/dripicons/)                   | CC-BY-SA-4.0                              | 200+  | 32px | [Github](https://github.com/amitjakhu/dripicons)
 | [Eva icons](https://akveo.github.io/eva-icons/#/)                   | MIT                                       | 480+  | 24px |
 | [Feather icons](https://feathericons.com/)                          | MIT                                       | 274   | 24px |
@@ -26,7 +26,7 @@ Here are the very high requirements to be included to the list.
 | [Jam icons](https://jam-icons.com/)                                 | MIT                                       | 890+  | 24px |
 | [Material icons](https://material.io/tools/icons/?style=baseline)   | Apache 2.0                                | ?     | 24px |
 | [Open iconic](https://useiconic.com/open)                           | MIT                                       | 200+  | 16px 24px | [Github](https://github.com/iconic/open-iconic)
-| [Remixicon](https://remixicon.com/)                                 | Apache 2.0                                | 1300+ | 24px |
+| [Remixicon](https://remixicon.com/)                                 | Apache 2.0                                | 1300+ | 24px | [Github](https://github.com/Remix-Design/remixicon)
 | [Themify icons](https://themify.me/themify-icons)                   | MIT                                       | 320+  | 17px | [Github](https://github.com/lykmapipo/themify-icons)
 | [Zondicons](http://www.zondicons.com/icons.html)                    | Free                                      | 250+  | 20px | [Github](https://github.com/dukestreetstudio/zondicons)
 
