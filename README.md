@@ -14,6 +14,7 @@ Hand picked icon packs/sets.
 
 | Name                                                                | License                                   | Icons | Grid | Repo
 | ----                                                                | ----------------------------------------- | ----- | ---- | ----
+| [1800 free minimal](https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20) | [Custom](https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20)                                            | 1800+ | 20px |
 | [Boxicons](https://boxicons.com/)                                   | CC BY 4.0                                 | 650+  | 24px | [Github](https://github.com/atisawd/boxicons)
 | [Batch](http://adamwhitcroft.com/batch/)                            | [Custom](https://github.com/AdamWhitcroft/batch/blob/master/License.txt)                                                  | 340+  | 16px | [Github](https://github.com/AdamWhitcroft/batch)
 | [Dripicons](http://demo.amitjakhu.com/dripicons/)                   | CC-BY-SA-4.0                              | 200+  | 32px | [Github](https://github.com/amitjakhu/dripicons)
