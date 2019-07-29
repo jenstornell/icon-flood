@@ -15,6 +15,7 @@ Hand picked icon packs/sets.
 | Name                                                                | License                                   | Icons | Grid | Repo
 | ----                                                                | ----------------------------------------- | ----- | ---- | ----
 | [Boxicons](https://boxicons.com/)                                   | CC BY 4.0                                 | 650+  | 24px | [Github](https://github.com/atisawd/boxicons)
+| [Batch](http://adamwhitcroft.com/batch/)                            | [Custom](https://github.com/AdamWhitcroft/batch/blob/master/License.txt)                                                  | 340+  | 16px | [Github](https://github.com/AdamWhitcroft/batch)
 | [Dripicons](http://demo.amitjakhu.com/dripicons/)                   | CC-BY-SA-4.0                              | 200+  | 32px | [Github](https://github.com/amitjakhu/dripicons)
 | [Eva icons](https://akveo.github.io/eva-icons/#/)                   | MIT                                       | 480+  | 24px |
 | [Feather icons](https://feathericons.com/)                          | MIT                                       | 250+  | 24px |
