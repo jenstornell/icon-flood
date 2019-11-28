@@ -21,7 +21,6 @@ Hand picked icon packs/sets.
 | [Eva icons](https://akveo.github.io/eva-icons/#/)                   | MIT                                       | 480+  | 24px |
 | [Feather icons](https://feathericons.com/)                          | MIT                                       | 250+  | 24px |
 | [Font Awesome free](https://fontawesome.com/icons?d=gallery&m=free) | [Custom](https://fontawesome.com/license) | 1500+ | 48px |
-| [Glyph](https://glyph.smarticons.co/)                               | CC BY-SA 4.0                              | 800+  | 16px | [Github](https://github.com/frexy/glyph-iconset)
 | [Icomoon free](https://icomoon.io/#preview-free)                    | CC BY 4.0                                 | 490+  | 32px | [Github](https://github.com/Keyamoon/IcoMoon-Free)
 | [Iconic](https://useiconic.com/open)                                | MIT                                       | 200+  | 24px | [Github](https://github.com/iconic/open-iconic)
 | [Ionicons](https://ionicons.com/)                                   | MIT                                       | 700+  | 32px |
