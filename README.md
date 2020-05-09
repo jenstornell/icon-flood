@@ -29,6 +29,7 @@ Hand picked icon packs/sets.
 | [Remixicon](https://remixicon.com/)                                 | Apache 2.0                                | 1300+ | 24px | [Github](https://github.com/Remix-Design/remixicon)
 | [Themify icons](https://themify.me/themify-icons)                   | MIT                                       | 320+  | 17px | [Github](https://github.com/lykmapipo/themify-icons)
 | [Zondicons](http://www.zondicons.com/icons.html)                    | Free                                      | 250+  | 20px | [Github](https://github.com/dukestreetstudio/zondicons)
+| [css.gg](https://css.gg/app)                                        | MIT                                       | 700+  | 24px | [Github](https://github.com/astrit/css.gg)
 
 ## Did I miss a good icon pack?
 
