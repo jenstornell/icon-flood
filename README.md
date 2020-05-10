@@ -34,8 +34,8 @@ Hand picked icon packs/sets.
 ### 1800 free minimal
 
 - **Icons** 1800+
-- **Size:** 24px
-- **License:** MIT
+- **Size:** 20px
+- **License:** https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20
 - **Site:** https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20
 - **Github:** -
 
