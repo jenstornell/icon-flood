@@ -31,6 +31,14 @@ Hand picked icon packs/sets.
 | [Zondicons](http://www.zondicons.com/icons.html)                    | Free                                      | 250+  | 20px | [Github](https://github.com/dukestreetstudio/zondicons)
 | [css.gg](https://css.gg/app)                                        | MIT                                       | 700+  | 24px | [Github](https://github.com/astrit/css.gg)
 
+### 1800 free minimal
+
+- **Icons** 1800+
+- **Size:** 24px
+- **License:** MIT
+- **Site:** https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20
+- **Github:** -
+
 ## Did I miss a good icon pack?
 
 [Add an issue](https://github.com/jenstornell/free-icon-packs/issues)
