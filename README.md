@@ -1,16 +1,8 @@
-# Free icon packs 2019
+# Free icon packs 2020
+
+## Icon packs
 
 Hand picked icon packs/sets.
-
-## Requirements
-
-- Looks great.
-- At least 200 icons.
-- SVG support.
-- Good preview page.
-- Free for personal and commercial use.
-- General icons, not a specific category.
-- Black and white.
 
 ### 1800 free minimal
 
@@ -131,6 +123,16 @@ Hand picked icon packs/sets.
 - **License:** Free
 - **Site:** http://www.zondicons.com/icons.html
 - **Github:** https://github.com/dukestreetstudio/zondicons
+
+## Requirements
+
+- Looks great.
+- At least 200 icons.
+- SVG support.
+- Good preview page.
+- Free for personal and commercial use.
+- General icons, not a specific category.
+- Black and white.
 
 ## Did I miss a good icon pack?
 
