@@ -12,25 +12,6 @@ Hand picked icon packs/sets.
 - General icons, not a specific category.
 - Black and white.
 
-| Name                                                                | License                                   | Icons | Grid | Repo
-| ----                                                                | ----------------------------------------- | ----- | ---- | ----
-| [1800 free minimal](https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20) | [Custom](https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20)                                            | 1800+ | 20px |
-| [Boxicons](https://boxicons.com/)                                   | CC BY 4.0                                 | 650+  | 24px | [Github](https://github.com/atisawd/boxicons)
-| [Batch](http://adamwhitcroft.com/batch/)                            | [Custom](https://github.com/AdamWhitcroft/batch/blob/master/License.txt)                                                  | 340+  | 16px | [Github](https://github.com/AdamWhitcroft/batch)
-| [Dripicons](http://demo.amitjakhu.com/dripicons/)                   | CC-BY-SA-4.0                              | 200+  | 32px | [Github](https://github.com/amitjakhu/dripicons)
-| [Eva icons](https://akveo.github.io/eva-icons/#/)                   | MIT                                       | 480+  | 24px |
-| [Feather icons](https://feathericons.com/)                          | MIT                                       | 250+  | 24px |
-| [Font Awesome free](https://fontawesome.com/icons?d=gallery&m=free) | [Custom](https://fontawesome.com/license) | 1500+ | 48px |
-| [Icomoon free](https://icomoon.io/#preview-free)                    | CC BY 4.0                                 | 490+  | 32px | [Github](https://github.com/Keyamoon/IcoMoon-Free)
-| [Iconic](https://useiconic.com/open)                                | MIT                                       | 200+  | 24px | [Github](https://github.com/iconic/open-iconic)
-| [Ionicons](https://ionicons.com/)                                   | MIT                                       | 700+  | 32px |
-| [Jam icons](https://jam-icons.com/)                                 | MIT                                       | 890+  | 24px |
-| [Material icons](https://material.io/tools/icons/?style=baseline)   | Apache 2.0                                | 900+  | 24px |
-| [Remixicon](https://remixicon.com/)                                 | Apache 2.0                                | 1300+ | 24px | [Github](https://github.com/Remix-Design/remixicon)
-| [Themify icons](https://themify.me/themify-icons)                   | MIT                                       | 320+  | 17px | [Github](https://github.com/lykmapipo/themify-icons)
-| [Zondicons](http://www.zondicons.com/icons.html)                    | Free                                      | 250+  | 20px | [Github](https://github.com/dukestreetstudio/zondicons)
-| [css.gg](https://css.gg/app)                                        | MIT                                       | 700+  | 24px | [Github](https://github.com/astrit/css.gg)
-
 ### 1800 free minimal
 
 - **Icons** 1800+
@@ -38,6 +19,118 @@ Hand picked icon packs/sets.
 - **License:** https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20
 - **Site:** https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20
 - **Github:** -
+
+### Boxicons
+
+- **Icons** 1400+
+- **Size:** 24px
+- **License:** CC BY 4.0
+- **Site:** https://boxicons.com/
+- **Github:** https://github.com/atisawd/boxicons
+
+### css.gg
+
+- **Icons** 700+
+- **Size:** 24px
+- **License:** MIT
+- **Site:** https://css.gg/app
+- **Github:** https://github.com/astrit/css.gg
+
+### Dripicons
+
+- **Icons** 200+
+- **Size:** 24px
+- **License:** CC-BY-SA-4.0
+- **Site:** http://demo.amitjakhu.com/dripicons/
+- **Github:** https://github.com/amitjakhu/dripicons
+
+### Eva icons
+
+- **Icons** 480+
+- **Size:** 24px
+- **License:** MIT
+- **Site:** https://akveo.github.io/eva-icons/#/
+- **Github:** https://github.com/akveo/eva-icons
+
+### Feather icons
+
+- **Icons** 280+
+- **Size:** 24px
+- **License:** MIT
+- **Site:** https://feathericons.com/
+- **Github:** https://github.com/feathericons/feather
+
+### Font awesome
+
+- **Icons** 1500+
+- **Size:** 48px
+- **License:** https://fontawesome.com/license
+- **Site:** https://fontawesome.com/icons?d=gallery&m=free
+- **Github:** https://github.com/FortAwesome/Font-Awesome
+
+### Icomoon
+
+- **Icons** 490+
+- **Size:** 32px
+- **License:** CC BY 4.0
+- **Site:** https://icomoon.io/#preview-free
+- **Github:** https://github.com/Keyamoon/IcoMoon-Free
+
+### Iconic
+
+- **Icons** 220+
+- **Size:** 24px
+- **License:** MIT
+- **Site:** https://useiconic.com/open
+- **Github:** https://github.com/iconic/open-iconic
+
+### Ionicons
+
+- **Icons** 1200+
+- **Size:** 32px
+- **License:** MIT
+- **Site:** https://ionicons.com/
+- **Github:** https://github.com/ionic-team/ionicons
+
+### Jamicons
+
+- **Icons** 890+
+- **Size:** 24px
+- **License:** MIT
+- **Site:** https://jam-icons.com
+- **Github:** https://github.com/michaelampr/jam
+
+### Material icons
+
+- **Icons** 900+
+- **Size:** 24px
+- **License:** Apache 2.0
+- **Site:** https://material.io/tools/icons/?style=baseline
+- **Github:** https://github.com/google/material-design-icons
+
+### Remix icons
+
+- **Icons** 2000+
+- **Size:** 24px
+- **License:** Apache 2.0
+- **Site:** https://remixicon.com/
+- **Github:** https://github.com/Remix-Design/remixicon
+
+### Themify icons
+
+- **Icons** 320+
+- **Size:** 17px
+- **License:** MIT
+- **Site:** https://themify.me/themify-icons
+- **Github:** https://github.com/lykmapipo/themify-icons
+
+### Zondicons
+
+- **Icons** 250+
+- **Size:** 20px
+- **License:** Free
+- **Site:** http://www.zondicons.com/icons.html
+- **Github:** https://github.com/dukestreetstudio/zondicons
 
 ## Did I miss a good icon pack?
 
