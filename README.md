@@ -108,6 +108,13 @@ Hand picked icon packs/sets.
 - **Site:** https://remixicon.com/
 - **Github:** https://github.com/Remix-Design/remixicon
 
+### Tabler icons
+
+- **Icons** 550
+- **Size** 24px
+- **License:** MIT
+- **Github:** https://github.com/tabler/tabler-icons
+
 ### Themify icons
 
 - **Icons** 320+
