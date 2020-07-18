@@ -12,6 +12,14 @@ Hand picked icon packs/sets.
 - **Site:** https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20
 - **Github:** -
 
+### Bootstrap icons
+
+- **Icons:** 1000+
+- **Size:** 32px
+- **License:** MIT
+- **Site:** https://icons.getbootstrap.com/
+- **Github:** https://github.com/twbs/icons
+
 ### Boxicons
 
 - **Icons** 1400+
