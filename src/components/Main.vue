@@ -6,7 +6,11 @@
           <div class="flex flex-col pt-8">
             <div class="flex items-center justify-between text-4xl text-white">
               <div>Icon packs</div>
-              <div class="p-4 rounded hover:bg-gray-800 md:hidden">
+              <div
+                class="p-4 rounded hover:bg-gray-800 md:hidden"
+                :class="{ hidden: store.state.sidebar }"
+                @click="store.state.sidebar = true"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"

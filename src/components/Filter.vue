@@ -1,7 +1,8 @@
 <template>
   <div
-    class="flex-col justify-between hidden w-full overflow-auto bg-gray-900 md:flex filter"
-    style="max-width: 320px;"
+    class="fixed top-0 left-0 flex-col justify-between w-full h-full overflow-auto bg-gray-900 md:flex filter md:relative"
+    style="max-width: 320px; min-width: 320px;"
+    :class="{ hidden: !store.state.sidebar }"
   >
     <div class="flex flex-col gap-8 p-8">
       <div class="flex flex-col gap-1">
@@ -109,6 +110,15 @@
           <option value="count">Number of icons</option>
           <option value="age">Age</option>
         </select>
+      </div>
+
+      <div>
+        <button
+          class="px-6 py-3 text-white bg-green-600 rounded focus:outline-none md:hidden"
+          @click="store.state.sidebar = false"
+        >
+          List {{ store.state.items.length }} icon packs
+        </button>
       </div>
     </div>
     <Footer />
