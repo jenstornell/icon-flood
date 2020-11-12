@@ -1,7 +1,6 @@
 <template>
   <div
-    class="fixed top-0 left-0 flex-col justify-between w-full h-full overflow-auto bg-gray-900 md:flex filter md:relative"
-    style="max-width: 320px; min-width: 320px;"
+    class="fixed top-0 left-0 flex-col justify-between w-full h-full overflow-auto bg-gray-900 md:flex filter md:relative md:w-sidebar"
     :class="{ hidden: !store.state.sidebar }"
   >
     <div class="flex flex-col gap-8 p-8">
@@ -24,6 +23,7 @@
             spellcheck="false"
             autocomplete="off"
             placeholder="Icon pack title..."
+            @change="triggerStore"
           />
         </div>
       </div>
@@ -38,6 +38,7 @@
               :value="grid"
               v-model="store.model.grids"
               class="hidden"
+              @change="triggerStore"
             />
             <Checkbox :id="grid" suffix="px" />
           </div>
@@ -57,6 +58,7 @@
               :value="license"
               v-model="store.model.licenses"
               class="hidden"
+              @change="triggerStore"
             />
             <Checkbox :id="license" />
           </div>
@@ -67,17 +69,18 @@
         <h2 class="text-gray-500 uppercase">Price</h2>
         <div class="flex flex-wrap gap-2">
           <div
-            v-for="price in store.state.prices"
-            v-bind:key="`price-${price}`"
+            v-for="pricemodel in store.state.pricemodels"
+            v-bind:key="`price-${pricemodel}`"
           >
             <input
               type="checkbox"
-              :id="`s-${price}`"
-              :value="price"
-              v-model="store.model.prices"
+              :id="`s-${pricemodel}`"
+              :value="pricemodel"
+              v-model="store.model.pricemodel"
               class="hidden"
+              @change="triggerStore"
             />
-            <Checkbox :id="price" />
+            <Checkbox :id="pricemodel" />
           </div>
         </div>
       </div>
@@ -91,6 +94,7 @@
             :max="Object.keys(store.state.counts).length"
             class="w-full p-2 bg-black rounded appearance-none slider focus:outline-none"
             v-model="store.model.counter"
+            @change="triggerStore"
           />
           <div
             class="flex items-center justify-center w-16 font-bold text-gray-300 border-2 border-black rounded"
@@ -105,6 +109,7 @@
         <select
           class="p-2 rounded focus:outline-none"
           v-model="store.model.sort"
+          @change="triggerStore"
         >
           <option value="title">Title (A-Z)</option>
           <option value="count">Number of icons</option>
@@ -112,7 +117,9 @@
         </select>
       </div>
 
-      <div>
+      <div
+        class="fixed bottom-0 left-0 w-full px-8 py-4 bg-black bg-opacity-75 md:hidden"
+      >
         <button
           class="px-6 py-3 text-white bg-green-600 rounded focus:outline-none md:hidden"
           @click="store.state.sidebar = false"
@@ -138,7 +145,11 @@ export default {
   setup() {
     const store = inject("global");
 
-    return { store };
+    function triggerStore() {
+      store.setItems();
+    }
+
+    return { store, triggerStore };
   },
 };
 </script>

@@ -66,7 +66,7 @@
 </template>
 
 <script>
-import { inject, onMounted, computed, watchEffect } from "vue";
+import { inject, onMounted, computed } from "vue";
 import image from "@/methods/image";
 import TableRow from "@/components/TableRow.vue";
 
@@ -82,13 +82,14 @@ export default {
           return response.json();
         })
         .then((out) => {
-          console.log(out);
           store.updateCache(out);
           store.updateItems(out.items);
           store.updateGrids(out.grids);
           store.updateLicenses(out.licenses);
           store.updateCounts(out.counters);
-          store.updatePrices();
+          store.updatePricemodels(out.pricemodels);
+
+          console.log(store.model);
         });
     });
 
@@ -114,11 +115,6 @@ export default {
     function priceClass(pro) {
       return pro == 1 ? "bg-orange-600" : "bg-green-600";
     }
-
-    watchEffect(() => {
-      console.log(store.model.licenses);
-      store.setItems();
-    });
 
     const data = computed(() => {
       let results = [];

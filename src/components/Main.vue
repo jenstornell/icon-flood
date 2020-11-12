@@ -1,7 +1,7 @@
 <template>
-  <div class="flex justify-between flex-1 w-full overflow-hidden">
-    <div class="w-full overflow-auto">
-      <div class="flex flex-col w-full max-w-screen-xl mx-auto main">
+  <div class="flex justify-between w-full overflow-hidden">
+    <div class="flex-1 overflow-auto">
+      <div class="flex flex-col flex-1 max-w-screen-xl mx-auto main">
         <div class="px-8">
           <div class="flex flex-col pt-8">
             <div class="flex items-center justify-between text-4xl text-white">

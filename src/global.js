@@ -4,10 +4,10 @@ const cache = {
   items: [],
 };
 const state = reactive({
-  sidebar: true,
+  sidebar: false,
   items: [],
   grids: [],
-  prices: [],
+  pricemodels: [],
   counts: [],
   inputFind: "",
 });
@@ -15,7 +15,7 @@ const state = reactive({
 const model = reactive({
   grids: [],
   licenses: [],
-  prices: [],
+  pricemodels: [],
   counter: 1,
   age: 1,
   sort: "title",
@@ -39,9 +39,9 @@ const updateLicenses = function(licenses) {
   model.licenses = licenses;
 };
 
-const updatePrices = function() {
-  state.prices = ["Free", "Freemium"];
-  model.prices = state.prices;
+const updatePricemodels = function(pricemodels) {
+  state.pricemodels = pricemodels;
+  model.pricemodels = pricemodels;
 };
 
 const updateCounts = function(counts) {
@@ -74,17 +74,12 @@ const matchLicenses = function(item) {
   return success;
 };
 
-// Match prices
-const matchPrices = function(item) {
+// Match pricemodels
+const matchPricemodels = function(item) {
   let success = false;
-  let item_price = null;
 
-  model.prices.forEach((price) => {
-    item_price = item.pro == 0 ? "Free" : "Freemium";
-
-    if (price == item_price) {
-      success = true;
-    }
+  model.pricemodels.forEach((pricemodel) => {
+    success = pricemodel == item.pricemodel ? true : success;
   });
   return success;
 };
@@ -101,7 +96,7 @@ const setItems = function() {
     if (!matchFind(item)) return;
     if (!matchGrids(item)) return;
     if (!matchLicenses(item)) return;
-    if (!matchPrices(item)) return;
+    if (!matchPricemodels(item)) return;
     if (!matchCount(item)) return;
 
     results.push(item);
@@ -122,7 +117,6 @@ const setItems = function() {
   }
 
   state.items = results;
-  console.log(results);
 };
 
 export default {
@@ -132,7 +126,7 @@ export default {
   updateItems,
   updateGrids,
   updateLicenses,
-  updatePrices,
+  updatePricemodels,
   updateCounts,
   updateCache,
   setItems,

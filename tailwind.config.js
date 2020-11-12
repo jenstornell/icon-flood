@@ -4,6 +4,11 @@ module.exports = {
     fontFamily: {
       body: ["Quicksand"],
     },
+    extend: {
+      width: {
+        sidebar: "320px",
+      },
+    },
   },
   plugins: [],
 };
