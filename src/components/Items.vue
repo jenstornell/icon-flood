@@ -88,8 +88,6 @@ export default {
           store.updateLicenses(out.licenses);
           store.updateCounts(out.counters);
           store.updatePricemodels(out.pricemodels);
-
-          console.log(store.model);
         });
     });
 

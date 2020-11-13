@@ -76,7 +76,7 @@
               type="checkbox"
               :id="`s-${pricemodel}`"
               :value="pricemodel"
-              v-model="store.model.pricemodel"
+              v-model="store.model.pricemodels"
               class="hidden"
               @change="triggerStore"
             />
