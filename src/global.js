@@ -41,7 +41,9 @@ const updateLicenses = function(licenses) {
 
 const updatePricemodels = function(pricemodels) {
   state.pricemodels = pricemodels;
-  model.pricemodels = pricemodels;
+  model.pricemodels = ["Free"];
+
+  console.log(model.pricemodels);
 };
 
 const updateCounts = function(counts) {

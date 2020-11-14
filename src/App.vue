@@ -19,6 +19,6 @@ export default {
 
 <style>
 #app {
-  min-height: 100vh;
+  height: 100%;
 }
 </style>

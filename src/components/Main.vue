@@ -7,25 +7,20 @@
             <div class="flex items-center justify-between text-4xl text-white">
               <div>Icon packs</div>
               <div
-                class="p-4 rounded hover:bg-gray-800 md:hidden"
+                class="p-4 text-white rounded fill-current hover:bg-gray-800 md:hidden"
                 :class="{ hidden: store.state.sidebar }"
                 @click="store.state.sidebar = true"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
                   width="24"
                   height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="feather feather-menu"
                 >
-                  <line x1="3" y1="12" x2="21" y2="12"></line>
-                  <line x1="3" y1="6" x2="21" y2="6"></line>
-                  <line x1="3" y1="18" x2="21" y2="18"></line>
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M6.17 18a3.001 3.001 0 0 1 5.66 0H22v2H11.83a3.001 3.001 0 0 1-5.66 0H2v-2h4.17zm6-7a3.001 3.001 0 0 1 5.66 0H22v2h-4.17a3.001 3.001 0 0 1-5.66 0H2v-2h10.17zm-6-7a3.001 3.001 0 0 1 5.66 0H22v2H11.83a3.001 3.001 0 0 1-5.66 0H2V4h4.17zM9 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"
+                  />
                 </svg>
               </div>
             </div>

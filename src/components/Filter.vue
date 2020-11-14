@@ -5,8 +5,22 @@
   >
     <div class="flex flex-col gap-8 p-8">
       <div class="flex flex-col gap-1">
-        <div class="text-4xl font-bold leading-none text-blue-500">
-          Icon Flood
+        <div
+          class="flex items-center gap-2 text-4xl font-bold leading-none text-blue-500 fill-current"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            width="24"
+            height="24"
+            class="w-8 h-8"
+          >
+            <path fill="none" d="M0 0h24v24H0z" />
+            <path
+              d="M12 3.1L7.05 8.05a7 7 0 1 0 9.9 0L12 3.1zm0-2.828l6.364 6.364a9 9 0 1 1-12.728 0L12 .272zM7 13h10a5 5 0 0 1-10 0z"
+            />
+          </svg>
+          IconFlood
         </div>
         <div class="text-white opacity-50">
           - World's best free icon packs
@@ -23,7 +37,7 @@
             spellcheck="false"
             autocomplete="off"
             placeholder="Icon pack title..."
-            @change="triggerStore"
+            @input="triggerStore"
           />
         </div>
       </div>
@@ -94,7 +108,7 @@
             :max="Object.keys(store.state.counts).length"
             class="w-full p-2 bg-black rounded appearance-none slider focus:outline-none"
             v-model="store.model.counter"
-            @change="triggerStore"
+            @input="triggerStore"
           />
           <div
             class="flex items-center justify-center w-16 font-bold text-gray-300 border-2 border-black rounded"
